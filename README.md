@@ -30,3 +30,4 @@ My 2023
 * [0605-0611](https://github.com/guaguaguaxia/my2023/blob/master/6-June/0605-0611.md)
 * [0612-0618](https://github.com/guaguaguaxia/my2023/blob/master/6-June/0612-0618.md)
 * [0619-0625](https://github.com/guaguaguaxia/my2023/blob/master/6-June/0619-0625.md)
+* [0626-0702](https://github.com/guaguaguaxia/my2023/blob/master/6-June/0626-0702.md)
